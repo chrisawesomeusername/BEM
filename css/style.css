@@ -6,30 +6,81 @@
 	box-sizing: border-box;
 }
 
+
+
 body{
-	background-color: tomato;
 	font-family: futura;
-
-
 }
 
+
+
+
+
+
+.masterContainer{
+	background-color: tomato;
+	height: 900px;
+	width: 90%;
+	margin: 0 auto;
+}
 
 .membership__heading{
 	font-size: 35px;
 	color: white;
 	text-align: center;
-	padding-top: 40px;
+	padding: 20px 0px;
+	background-color: #FEBF46;
+	border: 2px solid black;
 }
+
+
+.row1{
+	width: 50%;
+	margin: 0 auto;
+}
+
+
 
 .membership__form{
 	background-color: lightblue;
 	color: white;
-	text-align: center;
-	width: 70%;
-	margin: 50px auto;
-
-}
-
-.membership__label{
 	font-size: 20px;
+	float: left;
+	width: 50%;
+	padding: 20px;
+	height: 250px;
 }
+
+.membership__text{
+	float: right;
+}
+
+
+
+.membership__radio{
+	background-color: lightblue;
+	color: white;
+	font-size: 20px;
+	float: right;
+	width: 50%;
+	padding: 20px;
+	height: 250px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
