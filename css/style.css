@@ -1,0 +1,35 @@
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+	box-sizing: border-box;
+}
+
+body{
+	background-color: tomato;
+	font-family: futura;
+
+
+}
+
+
+.membership__heading{
+	font-size: 35px;
+	color: white;
+	text-align: center;
+	padding-top: 40px;
+}
+
+.membership__form{
+	background-color: lightblue;
+	color: white;
+	text-align: center;
+	width: 70%;
+	margin: 50px auto;
+
+}
+
+.membership__label{
+	font-size: 20px;
+}
